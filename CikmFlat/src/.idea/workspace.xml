@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9218c0a-c5bb-4cdf-9e01-947e795142f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23MCe4aUX6yb36znpQfIhhdj1c3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9218c0a-c5bb-4cdf-9e01-947e795142f9" name="Default Changelist" comment="" />
+      <created>1641534660728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641534660728</updated>
+      <workItem from="1641534662113" duration="3978000" />
+      <workItem from="1641598371433" duration="6538000" />
+      <workItem from="1641888676710" duration="1645000" />
+      <workItem from="1642013964549" duration="599000" />
+      <workItem from="1642194923289" duration="742000" />
+      <workItem from="1642245887607" duration="288000" />
+      <workItem from="1642289374697" duration="600000" />
+      <workItem from="1642395464111" duration="2599000" />
+      <workItem from="1642477020033" duration="606000" />
+      <workItem from="1699149766872" duration="277000" />
+      <workItem from="1699150060571" duration="2244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="84" key="FileChooserDialogImpl" timestamp="1642397753240">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="361" y="84" key="FileChooserDialogImpl/0.0.1097.577@0.0.1097.577" timestamp="1642397753240" />
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1641535198025" />
+    <state x="257" y="117" key="com.intellij.ide.util.TipDialog" timestamp="1642395467503">
+      <screen x="0" y="0" width="1097" height="577" />
+    </state>
+    <state x="257" y="117" key="com.intellij.ide.util.TipDialog/0.0.1097.577@0.0.1097.577" timestamp="1642395467503" />
+  </component>
+</project>
