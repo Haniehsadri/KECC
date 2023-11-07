@@ -1,6 +1,6 @@
 # Section 1: CIKM Algorithm Implementation
 
-This directory, named `Cikm`, is dedicated to the implementation of the algorithm presented in the paper "Efficiently Computing k-Edge Connected Components via Graph Decomposition." The algorithm is designed to compute k-edge connected components within a graph efficiently.
+This directory, named `Sigmod13`, is dedicated to the implementation of the algorithm presented in the paper "Efficiently Computing k-Edge Connected Components via Graph Decomposition." The algorithm is designed to compute k-edge connected components within a graph efficiently.
 
 **Paper Link**: [Efficiently Computing k-Edge Connected Components via Graph Decomposition](https://dl.acm.org/doi/pdf/10.1145/2463676.2465323?casa_token=caMnZk3OqyIAAAAA:d5Mg1Lt0HKVSVZvylqxcxo2FbARUHE94F0314xnnESlMLI00ceJN0mRolEnl_O5Bk87BFeAGXKk)
 
